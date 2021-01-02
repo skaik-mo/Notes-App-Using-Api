@@ -1,0 +1,21 @@
+/*
+  Localizable.strings
+  Notes App
+
+  Arabic
+ 
+  Created by Mohamed Skaik on 27/10/2020.
+  Copyright © 2020 Mohamed Skaik. All rights reserved.
+*/
+
+"LanguageSheetTitle" = "تغيير اللغة";
+"LanguageSheetMessage" = "اختر اللغة";
+"LanguageCategory" = "الفئة";
+"LanguageUpdateCategory" = "تعديل الفئة";
+"LanguageNewCategory" = "فئة جديدة";
+"LanguageNote" = "ملاحظة";
+"LanguageUpdateNote" = "تعديل الملاحظة";
+"LanguageNewNote" = "ملاحظة جديدة";
+"LanguageOK" = "تم";
+"LanguageError" = "خظأ !!";
+"LanguageEnterInfo" = "أدخل البيانات";

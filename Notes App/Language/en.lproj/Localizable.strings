@@ -1,0 +1,21 @@
+/*
+  Localizable.strings
+  Notes App
+
+  English
+ 
+  Created by Mohamed Skaik on 27/10/2020.
+  Copyright © 2020 Mohamed Skaik. All rights reserved.
+*/
+
+"LanguageSheetTitle" = "Change Language";
+"LanguageSheetMessage" = "Select Language";
+"LanguageCategory" = "Category";
+"LanguageUpdateCategory" = "Update Category";
+"LanguageNewCategory" = "New Category";
+"LanguageNote" = "Note";
+"LanguageUpdateNote" = "Update Note";
+"LanguageNewNote" = "New Note";
+"LanguageOK" = "OK";
+"LanguageError" = "Error !!";
+"LanguageEnterInfo" = "Enter Info";
